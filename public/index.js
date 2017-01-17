@@ -234,7 +234,7 @@ function price() {
 	}
 }
 price();
-
+//slight modification
 console.log(cars);
 console.log(rentals);
 console.log(actors);
